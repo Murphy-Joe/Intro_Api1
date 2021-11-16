@@ -3,14 +3,22 @@
 namespace StatusApi.Controllers;
 public class StatusController : ControllerBase
 {
-    // http get localhost:5000/status
+    private readonly ISystemTime _systemTime;
+
+    public StatusController(ISystemTime systemTime)
+    {
+        _systemTime = systemTime;
+    }
+
+
+
     [HttpGet("/status")]
     public ActionResult GetTheStatus()
     {
         var resp = new StatusResponse
         {
             Message = "The server is great thanks",
-            LastChecked = DateTime.Now
+            LastChecked = _systemTime.GetCurrent()
         };
         return Ok(resp);
     }

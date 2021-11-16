@@ -10,7 +10,6 @@ C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\bin\Debug\net6.0\Microsoft.OpenAp
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.csproj.AssemblyReference.cache
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.AssemblyInfoInputs.cache
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.AssemblyInfo.cs
@@ -25,3 +24,4 @@ C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.dll
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\ref\StatusApi.dll
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.pdb
 C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.genruntimeconfig.cache
+C:\dev\JeffsStuff\Week2\StatusApiSln\StatusApi\obj\Debug\net6.0\StatusApi.csproj.AssemblyReference.cache
